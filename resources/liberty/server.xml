@@ -23,7 +23,7 @@
 
     <include location="runtime-vars.xml" />
 
-    <webContainer trustHostHeaderPort="true" extractHostHeaderPort="true" />
+    <webContainer trustHostHeaderPort="true" extractHostHeaderPort="true"  deferServletLoad="false"/>
     
     <httpDispatcher enableWelcomePage="false"/>
 
