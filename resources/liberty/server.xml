@@ -12,7 +12,6 @@
         <feature>jndi-1.0</feature>
         <feature>managedBeans-1.0</feature>
         <feature>jaxrs-1.1</feature>
-		<feature>rtcomm-1.0</feature>
 		<feature>websocket-1.0</feature>
     </featureManager>
 
